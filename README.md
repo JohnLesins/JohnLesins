@@ -26,3 +26,8 @@
 - Azure Service Bus
 - RabbitMQ
 - Docker
+
+## Contacts
+
+Linkedin: https://www.linkedin.com/in/johnny-lesinscky
+Old Github Profile: https://github.com/lesinscky
